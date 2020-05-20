@@ -1,5 +1,5 @@
 ![](data/IMG_3731.JPG)
-This is a modified version of the [raspiraw](https://github.com/Hermann-SW/fork-raspiraw/)
+This is a tool based on the [raspiraw](https://github.com/Hermann-SW/fork-raspiraw/) software
 for capturing RGB24 CSI frames over the camera port. This application has been tested using
 an [Ultra96v1](https://www.96boards.org/product/ultra96/) FPGA board as the traffic generator.
 The details of this experiment will be posted soon on the hackster.io.
